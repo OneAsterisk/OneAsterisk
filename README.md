@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OneAsterisk
-- 🎓 I am a 3rd year @ Michigan Technological university
+- 🎓 I am a 4th year @ Michigan Technological university
 - 📚 I'm Studying Computer Science with a focus on Game Development and a minor in Cyber Security
-- 👀 I’m interested in ... learning new languages and improving my programming skills
-- 🌱 I’m currently learning ... C++ with Unreal and Web Development
+- 👀 I’m interested in ... refining my professional skills
+- 🌱 I’m currently learning ... Web Development at my Internship with Gentex
 - 📫 How to reach me ... contact@benpapp.com
 
 <!---
