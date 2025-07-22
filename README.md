@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @OneAsterisk
-- 🎓 I am a 4th year @ Michigan Technological university
-- 📚 I'm Studying Computer Science and a minor in Cyber Security
-- 👀 I’m interested in ... refining my professional skills
-- 🌱 I’m currently learning ... Web Development at my Internship with Gentex
+- Hi! I'm Ben, or Asterisk.
+- I'm a Web Developer specializing in react
+- Currently Learning Expo for multi-platform development for a fitness app
+- Competitive powerlifter in my free time
+- CS Grad from Michigan Tech
+   - Minor in Cyber Security
 - 📫 How to reach me ... contact@benpapp.com
 
 <!---
